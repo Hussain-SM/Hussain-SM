@@ -12,7 +12,7 @@ Hello 👋
 
 ## Current
 
-- 🎮 **A-Level Project:** Currently, I'm devoting my time and effort to develop a game for my A-level Computer Science project. This project has given me a fantastic opportunity to apply my programming skills and creativity. The game is heavily inspired by Super Mario Bros.
+- 🎮 **A-Level Project:** Currently, I'm devoting my time to develop a game for my A-level Computer Science project. This project has given me an opportunity to apply my programming skills and creativity. The game is inspired by Super Mario Bros.
 
 ## Future
 
